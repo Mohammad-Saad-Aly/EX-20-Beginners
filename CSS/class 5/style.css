@@ -1,0 +1,86 @@
+/* ul > li{
+    display: inline-block;
+    width: 150px;
+}
+
+ul{
+    position: sticky;
+    top: 0;
+    background-color: red;
+    color: white;
+}
+#abc{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+} */
+/* div{
+    border: 2px solid black;
+    width: 20%;
+}
+img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+p{
+    padding: 5px;
+    font-size: 20px;
+} */
+
+/* 
+#abc1{
+    width: 30%;
+    float: left;
+}
+
+#abc2{
+    width: 30%;
+    float: right;
+}
+
+#abc3{
+    clear: left;
+} */
+
+.abc{
+    background-color: aqua;
+    width: 30%;
+}
+.abc2{
+    z-index: -1;
+    position: relative;
+    top: -18.5px;
+    width: 30%;
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

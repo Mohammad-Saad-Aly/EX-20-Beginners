@@ -1,0 +1,36 @@
+/* BOXES */
+
+ul{
+    background-color: aqua;
+}
+
+li{
+    text-align: center;
+    /* background-color: aqua; */
+    display: inline-block;
+    width: 100px;
+    /* margin-left: 20px; */
+    /* word-spacing: 10px; */
+}
+
+
+
+.main{
+    border-top: 2px solid black;
+    box-shadow: 0px 0px 5px black;
+    /* border: 5px groove blue; */
+    /* background-color: aqua; */
+    width: 50%;
+    padding: 20px;
+    text-align: justify;
+    margin: auto;
+    margin-top: 20px;
+    /* margin-left: 200px; */
+    /* margin: 50px; */
+    /* margin-top: 40px;
+    margin-left: 40px; */
+    /* height: 100px; */
+    /* overflow: scroll; */
+}
+
+

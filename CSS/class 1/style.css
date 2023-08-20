@@ -1,0 +1,93 @@
+/* #ty,#hy,.abc,h1{
+    background-color: aqua;
+}
+.abc{
+    background-color: blue;
+    color: white;
+} */
+/* 
+#hy{
+    background-color: aqua;
+} */
+
+/* id #
+class .
+type selector ,
+h1,a,img,form */
+/* *{
+    background-color: rgba(255,0,0,0.5) ; */
+    /* opacity: 0.3; */
+/*
+ } */
+
+ /* p::first-line{
+    font-size: 50px;
+ } */
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+p{
+    /* text-align: center; */
+    /* text-shadow: 0px 0px 5px blue; */
+    /* letter-spacing:5px; */
+    /* word-spacing: 5px; */
+    /* line-height: 45px; */
+    /* text-align: justify; */
+    /* text-transform: capitalize; */
+    /* font-family: 'abc'; */
+    font-size: large;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-style: italic;
+    font-weight: bolder;
+    /* text-decoration: double; */
+}
+
+@font-face {
+    font-family: 'abc';
+    src: url('./Borel-Regular.ttf');
+}
+
+a{
+    font-family: 'abc';
+    text-decoration: none;
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

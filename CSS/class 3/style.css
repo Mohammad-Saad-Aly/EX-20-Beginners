@@ -1,0 +1,48 @@
+/* li{
+    list-style: upper-roman;
+} */
+
+th,td{
+    padding: 10px;
+    text-align: center;
+}
+
+table{
+    /* border-collapse: collapse; */
+    background-color: aqua;
+    border-spacing: 10px ;
+    margin: auto;
+    margin-top: 30px;
+}
+
+table,td,th{
+    border-radius:10px;
+    border: 3px groove black;
+}
+
+.abc{
+    background-color: lightgreen;
+}
+
+.def{
+    color: white;
+    background-color: lightcoral;
+}
+
+th{
+    background-color: lightpink;
+}
+
+td:hover{
+    background-color: black;
+    color: white;
+    transition: 1s;
+    transform: scale(1.2);
+}
+th:hover{
+    color: white;
+    transition: 1s;
+    transform: scale(1.2);
+    background-color: black;
+}
+
