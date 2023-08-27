@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+    background-color: aqua;
+    height: 200px;
+    /* width: 300px; */
+    /* flex-wrap: wrap; */
+    align-items: flex-start;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+
+
+
+
+    /* align-items: flex-end; */
+    /* flex-direction: row-reverse; */
+    /* justify-content: row-reverse; */
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    /* flex-direction: row; */
+    /* justify-content: space-around; */
+}
+
+.one{
+    background-color: yellow;
+    order: 2;
+    align-self: flex-end;
+}
+.two{
+    background-color: green;
+    align-self: flex-start;
+}
+.three{
+    background-color: blue;
+    order: 1;
+}
+.four{
+    background-color: gray;
+    order: -1;
+}
+.five{
+    background-color: pink;
+    order: -2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
