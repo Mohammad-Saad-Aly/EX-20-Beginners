@@ -78,20 +78,20 @@
 //     +'</table>'
 // )
 
-var userCity = prompt('Enter city Name')
+// var userCity = prompt('Enter city Name')
 
-if(userCity == 'karachi'){
-    document.write('City of Lights')
-}
-else if(userCity == 'lahore'){
-    document.write('khottey khaao')
-}
-else if(userCity == 'multan'){
-    document.write('Halwa le aao')
-}
-else{
-    document.write('chal nikal')
-}
+// if(userCity == 'karachi'){
+//     document.write('City of Lights')
+// }
+// else if(userCity == 'lahore'){
+//     document.write('khottey khaao')
+// }
+// else if(userCity == 'multan'){
+//     document.write('Halwa le aao')
+// }
+// else{
+//     document.write('chal nikal')
+// }
 
 
 
